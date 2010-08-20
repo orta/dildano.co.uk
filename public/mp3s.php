@@ -12,11 +12,20 @@
   <div class="v_section">
     <img src="mp3s.gif"><br>
     <a href="index.php"><img src="home.gif" border=0></a><br><br>
-
- 
-
-
+    
     <div class="h_half">
+          <a href="audio/Dildano.Crocodileopolis.zip" class="audio">
+    	A Dissapointing Evening with...
+          </a><br><br><br>
+      
+          <a href="audio/Dildano.Crocodileopolis.zip" class="audio">
+    	Crocodileopolis
+          </a><br><br><br>
+      
+              <a href="audio/SKT.mp3" class="audio">
+        	SuperKennyTape
+              </a><br><br><br>
+      
       <a href="audio/SKT.mp3" class="audio">
 	SuperKennyTape
       </a><br><br><br>
