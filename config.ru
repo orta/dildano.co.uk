@@ -7,5 +7,4 @@ use Rack::ETag
 use Rack::Rewrite do
   rewrite '/', '/index.html'
 end
-run Rack::Directory.new('public')rack-contrib
-rack-rewrite
+run Rack::Directory.new('public')
