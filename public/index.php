@@ -12,7 +12,7 @@
         <font color="FFFFEE">
         ----------------------------------------------------------------
         <font color="000000">
-        <img src="tinycheetah.gif" class="tinycheetah">DILDANO aromatic meal shat meal <img src="tinycheetah.gif" class="tinycheetah">Spain deems CROCODILEOPOLIS irrelevant <img src="tinycheetah.gif" class="tinycheetah">Josh Wink's tastebuds rendered useless by GEORGE BEST'S BATHWATER <img src="tinycheetah.gif" class="tinycheetah">      </marquee>
+         <a href="http://brutaltechnopunk.com"><img src="tinycheetah.gif" class="tinycheetah"></a>DILDANO aromatic meal shat meal <a href="http://brutaltechnopunk.com"><img src="tinycheetah.gif" class="tinycheetah"></a>Spain deems CROCODILEOPOLIS irrelevant  <a href="http://brutaltechnopunk.com"><img src="tinycheetah.gif" class="tinycheetah"></a>Josh Wink's tastebuds rendered useless by GEORGE BEST'S BATHWATER  <a href="http://brutaltechnopunk.com"><img src="tinycheetah.gif" class="tinycheetah"></a>      </marquee>
     </div>
     <div class="v_section">
       <div class="h_cheetah" style="text-align:right;">
