@@ -356,7 +356,8 @@ a.audio
   color:#000000;
 }
 
-span.info
+div.info 
 {
-  float:left;
+text-align: left;
+margin-left: 1em;
 }

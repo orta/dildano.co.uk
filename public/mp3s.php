@@ -32,14 +32,22 @@
     </div>
 
     <div class="h_half">
-	<left>
-	<br>
-	<span class=info>
- 	2006. mp3 file (right click to save)<br><br><br>      
-	</span>	
-	<span class=info>
- 	2009. Zipped archive containing all tracks<br><br><br>      
-	</span>	
+	<div class="info">
+ 	1994. <br><br><br>      
+	</div>	
+	<div class="info">
+ 	2004.<br><br><br>      
+	</div>	
+	
+	<div class="info">
+ 	2005.<br><br><br>      
+	</div>	
+	
+	<div class="info">
+ 	2009.<br><br><br>      
+	</div>	
+	
+	
     </div>
   </div>
 </body>
