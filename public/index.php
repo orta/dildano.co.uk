@@ -26,10 +26,6 @@
         <a href="mp3s.php"><img src="mp3s.gif" class="frontlink" style="margin-top:40px;"></a>
         <a href="phpBB3/index.html"><img src="forum.gif" class="frontlink"></a>
         <a href="gallery-12418.php"><img src="gallery.gif" class="frontlink" style="margin-bottom:20px;"></a>
-        <a href="http://www.myspace.com/dildano">
-          <img src="myspaz.gif" class="frontlink"></a>
-          <a href="http://www.wikipedildano.com/">
-        <img src="wiki.gif" class="frontlink"></a>
     </div>
     <div class="v_section">
       <img src = "dildano.gif">
